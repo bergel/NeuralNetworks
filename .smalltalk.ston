@@ -1,0 +1,17 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #configuration : 'NeuralNetworks',
+      #repository : 'http://smalltalkhub.com/mc/abergel/NeuralNetworks/main/',
+      #load : [ 'default' ],
+      #platforms : [ #pharo ],
+      #version: #development
+    }
+  ],
+
+  #testing : {
+    #coverage : { 
+       #packages : [ 'NeuralNetworks' ]
+     }
+   }
+}
