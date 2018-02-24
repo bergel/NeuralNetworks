@@ -7,7 +7,7 @@ Source code of NeuralNetworks is kept on SmalltalkHub: http://smalltalkhub.com/#
 Execute the following code snippet to load Roassal2
 ```Smalltalk
 Gofer it
-    smalltalkhubUser: 'abergel' project: 'NeuralNetworks';
+    smalltalkhubUser: 'Pharo' project: 'MetaRepoForPharo60';
     configurationOf: 'NeuralNetworks';
     loadDevelopment
 ```
