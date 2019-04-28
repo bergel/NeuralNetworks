@@ -1,5 +1,7 @@
 # NeuralNetworks
 
+*DEPRECATED REPOSITORY. You should look at https://github.com/AgileArtificialIntelligence/PharoSourceCode*
+
 NeuralNetworks is a framework to build neural networks in Pharo. It is currently used as a teaching material for a lecture given at the University of Chile.
 
 Source code of NeuralNetworks is kept on SmalltalkHub: http://smalltalkhub.com/#!/~abergel/NeuralNetworks
